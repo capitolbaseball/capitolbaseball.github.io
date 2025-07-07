@@ -3,6 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Joe created Capitol Baseball back in 2010 as an outlet for musings and analysis about the Nats. He moved on to write for and become Editor in Chief of The Nats Blog and co-hosted two podcasts (Nats Talk on the Go and A Triple Shy) before taking a hiatus from baseball writing.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+He decided to return under the original Capitol Baseball name and try his hand again at the whole blogging thing and see what sticks. You can expect sports musings that focus on the Nats, baseball, soccer, and maybe other things.
