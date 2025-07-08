@@ -1,5 +1,5 @@
 ---
-title: "A Time of Tumult? Nah, Status Quo"
+title: "A Time of Tumult? Nah, Status Quo for the Nats"
 categories:
   - blog
 tags:
